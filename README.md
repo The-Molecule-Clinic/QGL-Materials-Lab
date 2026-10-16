@@ -52,4 +52,4 @@ Our calculations are proprietary. If you are developing novel 2D TMDs, topologic
 
 We provide custom, certifiable quantum topology and Spin Berry Curvature mapping reports tailored to your specific tight-binding models and strain requirements [WannierTools].
 
-📧 **Contact for commercial licensing, custom material audits, and B2B inquiries:** `[ВСТАВЬТЕ ВАШ EMAIL ИЛИ ССЫЛКУ НА СВЯЗЬ]`
+📧 **Contact for commercial licensing, custom material audits, and B2B inquiries:** https://www.linkedin.com/in/valerii-vitalievich-479a7540a/?isSelfProfile=true
